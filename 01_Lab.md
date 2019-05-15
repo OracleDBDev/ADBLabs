@@ -1,4 +1,4 @@
-![](images/lab-title.JPG)
+![](images/Lab_01.png)
 
 Updated: June 12, 2018
 
